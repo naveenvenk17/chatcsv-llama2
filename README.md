@@ -1,5 +1,3 @@
-![Screenshot 2024-08-25 012337](https://github.com/user-attachments/assets/e0774ca1-82ac-4428-91c7-4bc3b2ad8693)# chatcsv-llama2
-
 chat with your csv using llama2. \
 UI built using streamlit. 
 
