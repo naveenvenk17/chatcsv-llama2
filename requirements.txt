@@ -1,0 +1,11 @@
+streamlit
+pypdf
+langchain
+torch==2.3.1
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+langchain-community
+streamlit-chat
