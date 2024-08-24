@@ -1,7 +1,7 @@
 # chatcsv-llama2
 
 chat with your csv using llama2. \
-UI built using streamlit. \
+UI built using streamlit.\
 
 ##FUTURE SCOPE \
 -> Guardrails to check the generated value \
